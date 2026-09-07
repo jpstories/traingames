@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SFML_Pong\\x64\\Debug\\main.obj",
+            "outputs": [
+                "SFML_Pong\\x64\\Debug\\main.cpp.obj.dt.module.json",
+                "SFML_Pong\\x64\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
