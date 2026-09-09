@@ -126,7 +126,7 @@
       <AdditionalDependencies>sfml-graphics-d.lib;
 sfml-window-d.lib;
 sfml-system-d.lib
-;%(AdditionalDependencies)</AdditionalDependencies>
+;sfml-audio-d.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <AdditionalLibraryDirectories>C:\Users\User\source\repos\SFML_Pong\SFML-2.6.1\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
     <Manifest>
@@ -149,7 +149,7 @@ sfml-system-d.lib
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalDependencies>sfml-graphics.lib
 ;sfml-window.lib
-;sfml-system.lib;%(AdditionalDependencies)</AdditionalDependencies>
+;sfml-system.lib;sfml-audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <Manifest>
       <EnableSegmentHeap>true</EnableSegmentHeap>
